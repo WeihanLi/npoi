@@ -28,7 +28,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.SourceLink.GitHub" />
     <PackageReference Include="SkiaSharp" PrivateAssets="all" Pack="false"/>
     <PackageReference Include="System.Security.Cryptography.Xml" />
   </ItemGroup>

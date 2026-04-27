@@ -23,7 +23,6 @@
     <PackageReference Include="ExtendedNumerics.BigDecimal" />
     <PackageReference Include="MathNet.Numerics.Signed" />
     <PackageReference Include="Microsoft.IO.RecyclableMemoryStream" />
-    <PackageReference Include="Microsoft.SourceLink.GitHub" />
     <PackageReference Include="SharpZipLib" />
     <PackageReference Include="SkiaSharp" ExcludeAssets="runtime" />
     <PackageReference Include="SkiaSharp.NativeAssets.Linux.NoDependencies" ExcludeAssets="runtime" />

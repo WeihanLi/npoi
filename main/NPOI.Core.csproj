@@ -25,7 +25,6 @@
     <PackageReference Include="ExtendedNumerics.BigDecimal" />
     <PackageReference Include="MathNet.Numerics.Signed" />
     <PackageReference Include="Microsoft.IO.RecyclableMemoryStream" />
-    <PackageReference Include="Microsoft.SourceLink.GitHub" />
     <PackageReference Include="BouncyCastle.Cryptography" />
     <PackageReference Include="SharpZipLib" />
     <PackageReference Include="SkiaSharp" PrivateAssets="all" Pack="false" />
